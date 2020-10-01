@@ -1,2 +1,2 @@
 # Gaussian-Mixture-Model
-This is a part of MATLAB implementation of the paper "Machine Learning Techniques for Cooperative Spectrum Sensing in Cognitive Radio Networks"  in which Gaussian Mixture Model clustering is employed.
+This is a part of MATLAB implementation of the paper "Machine Learning Techniques for Cooperative Spectrum Sensing in Cognitive Radio Networks"  in which Gaussian Mixture Model clustering is employed.Gaussian Mixture Models (GMMs) assume that there are a certain number of Gaussian distributions, and each of these distributions represent a cluster. Hence, a Gaussian Mixture Model tends to group the data points belonging to a single distribution together.
